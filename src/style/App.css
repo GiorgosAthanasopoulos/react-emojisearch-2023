@@ -1,0 +1,36 @@
+div {
+    text-align: center;
+    color: grey;
+    font-family: "JetBrains Mono", monospace;
+}
+
+input {
+    height: 25px;
+    width: 300px;
+    border: 2px solid grey;
+    border-radius: 25px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: "JetBrains Mono", monospace;
+}
+
+span {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid grey;
+    margin-left: 25vw;
+    margin-right: 25vw;
+    margin-top: 5px;
+}
+
+button {
+    margin-left: 5px;
+    padding: 10px;
+    font-size: 20px;
+    font-family: "JetBrains Mono", monospace;
+}
